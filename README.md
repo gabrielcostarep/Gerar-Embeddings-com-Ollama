@@ -1,0 +1,1 @@
+# Gerar-Embeddings-com-Ollama
